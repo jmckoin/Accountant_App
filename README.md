@@ -18,3 +18,4 @@ You will build a client/tax return system for a small accounting firm. Your cust
 -	Check if a return for a client is filed
 -	Mark if a CPA checked a return
 -	Check if a CPA checked a return
+![ERD_Accountant_App](https://user-images.githubusercontent.com/126199207/235235021-f4270234-6df9-441a-9443-e55117243e96.PNG)
