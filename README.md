@@ -1,5 +1,5 @@
 # Accountant Database Application Project
-An application based on following overview:
+An application built based on following overview:
 
 Overview:
 You will build a client/tax return system for a small accounting firm. Your customer (the accounting firm) requires the following from your application:
